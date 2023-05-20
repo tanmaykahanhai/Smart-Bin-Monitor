@@ -1,5 +1,5 @@
 /*************************************************************
-  This code was made by our team 'INVENTORS' in AIET HACKAATHON-2023, JAIPUR
+  This code was made by our team 'INVENTORS' in AIET HACKATHON-2023, JAIPUR
  *************************************************************/
 #define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
